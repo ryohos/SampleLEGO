@@ -1,7 +1,5 @@
-T-Lab20170817-LEGO
+Sample LEGO
 ===============
-
-T-Lab.Academy Tinkering & Hacking Event 2 Days (LEGO Mindstorms 用)
 
 ### 前提
 
